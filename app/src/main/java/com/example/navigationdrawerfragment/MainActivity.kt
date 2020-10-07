@@ -80,11 +80,11 @@ class MainActivity : AppCompatActivity() {
             true
         }
 
-//        loadmeme()
+    loadmeme()
     }
 
     fun loadmeme(){
-        progressBar.visibility = View.VISIBLE
+        //progressBar.visibility = View.VISIBLE
         val url = "https://meme-api.herokuapp.com/gimme"
 
         // Request a string response from the provided URL.
