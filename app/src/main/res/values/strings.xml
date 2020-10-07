@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawerFragment</string>
+    <string name="home">Home</string>
+    <string name="trending">Trending</string>
+    <string name="subscription">Subscription</string>
+    <string name="others">Others</string>
+    <string name="inbox">Inbox</string>
+    <string name="library">Library</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="option">Drawer</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+</resources>
